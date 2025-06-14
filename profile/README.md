@@ -1,50 +1,28 @@
-# 🌟 TaskBeacon – Advancing Reproducible Psychological Paradigms  
+# TaskBeacon
 
-Welcome to **TaskBeacon**, a community-driven platform dedicated to **sharing, standardizing, and enhancing psychological paradigms**. Our mission is to improve **reproducibility and efficiency in psychological and brain science research** by leveraging structured formats and **LLM-powered experiment generation**.
+Welcome to **TaskBeacon**, a community-driven platform for sharing, standardizing, and enhancing psychological paradigms.  
+Our mission is to improve **reproducibility and efficiency** in psychological and brain science research through structured formats and LLM-powered experiment generation.
 
----
+TaskBeacon is an open science initiative that offers a suite of tools and resources:
 
-## 🚀 What is TaskBeacon?  
-TaskBeacon is an open science initiative that provides:  
+- [TAPS](https://taskbeacon.github.io/taps) – A standardized format for structuring cognitive tasks  
+- [psyflow](https://taskbeacon.github.io/psyflow/) – A Python library for programming cognitive experiments  
+- [Task Library](https://taskbeacon.github.io/task_index/) – A curated collection of well-documented experimental templates  
 
-✅ **Standardized Paradigm Format – TAPS**  
-- We develop **TAPS (Task and Paradigm Structure)**, a **structured, reproducible format** for psychological paradigms.  
-- Ensures **clarity, consistency, and high reproducibility** in experimental designs.  
+TAPS and psyflow make cross-cultural localization efficient by separating task logic from language-specific content and configuration.  
+This modular structure allows researchers to easily adapt paradigms across different languages and cultural contexts without rewriting core code, fostering global accessibility and collaboration.  
+[Learn more about localization](https://taskbeacon.github.io/localization)
 
-✅ **LLM-Powered Experiment Generation**  
-- Using **large language models (LLMs)** to **automate and streamline paradigm creation**.  
-- Reduces experiment setup time while ensuring high-quality reproducible designs.  
+We are continuously expanding the platform to support more automation, customization, and community collaboration.  
+[Learn more about future directions](https://taskbeacon.github.io/future_directions)
 
-✅ **Open-Source Psychological Task Library**  
-- A **repository of well-documented experiment templates**, including:
-  - 💻 Cognitive Tasks (e.g., Go/No-Go, Stroop, N-Back)  
-  - 🏃 Reaction-Time Studies
-  - 🧠 EEG/fMRI/EyeTracking/fNIR Studies
-  - 🏥 Clinical and Behavioral Experiments  
+## How to Get Involved
 
-✅ **Cross-Cultural Adaptation of Psychological Tasks**  
-- Supporting **automatic localization** of paradigms into multiple languages.  
-- Enhancing **global research collaboration and accessibility**.  
+- Explore the repository and documentation  
+- Contribute new tasks or improvements to TAPS and psyflow  
+- Engage with the community to help shape the platform’s future  
 
----
+## Connect with Us
 
-## 📜 Why TaskBeacon?  
-🔹 **Reproducibility** – Addressing the reproducibility crisis in psychology and neuroscience.  
-🔹 **Efficiency** – Accelerating paradigm development with **structured formats and AI**.  
-🔹 **Open Science** – Promoting transparency and collaboration in experimental research.  
-🔹 **Scalability** – Enabling global accessibility through **cross-cultural task adaptations**.  
-
----
-
-## 🔧 How to Get Involved  
-📂 **Explore the Repository** – Check out our **open-source psychological tasks** and **TAPS documentation**.  
-📌 **Contribute** – Help improve **TAPS**, share your paradigms, or refine existing experiment templates.  
-💬 **Join the Discussion** – Engage with the community and help shape the future of **standardized psychology research**.  
-
----
-
-## 📫 Connect with Us  
-🔗 **GitHub:** [TaskBeacon Organization](https://github.com/TaskBeacon)  
-📧 **Email:** zhipeng30@foxmail.com
-
-Together, let's revolutionize psychological research with **standardization, automation, and open collaboration!** 🚀  
+- GitHub: [TaskBeacon Organization](https://github.com/TaskBeacon)  
+- Email: zhipeng30@foxmail.com  
